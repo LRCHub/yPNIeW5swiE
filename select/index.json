@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スローモーニング",
+  "base_artist": "Silent Siren",
+  "createdAt": "2026-01-04T16:50:41.841818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スローモーニング",
+      "artist": "Silent Siren",
+      "has_synced": true,
+      "path": "select/01_スローモーニング_Silent_Siren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スローモーニング",
+      "artist": "Silent Siren",
+      "has_synced": false,
+      "path": "select/pl_01_スローモーニング_Silent_Siren.txt"
+    }
+  ]
+}
